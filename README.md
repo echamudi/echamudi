@@ -4,8 +4,6 @@ Here's a quick list of what I'm doing on GitHub:
 
 #### Utilities
 
-Ready tools for developers:
-
 | Repo | Details |
 | ---- | ---- |
 | <img src="https://raw.githubusercontent.com/echamudi/japanese-toolkit/master/images/japanese-toolkit.svg" alt="Japanese Toolkit Logo" height="80" width="80"><br><a href="https://github.com/echamudi/japanese-toolkit">Japanese Tookit JS</a> | Japanese Toolkit JS is a pack of utilities for building Japanese dictionary from open source materials. Built with TypeScript and Lerna.<br><b>Packages:</b> <br><a href="https://www.npmjs.com/package/kanji"><img src="https://raw.githubusercontent.com/echamudi/badges/master/npm-n.svg" height="16" width="16"> kanji</a>: Get kanji readings, kanji composition trees, and groupings. <br><a href="https://www.npmjs.com/package/furigana"><img src="https://raw.githubusercontent.com/echamudi/badges/master/npm-n.svg" height="16" width="16"> furigana</a>: Fit kana text into Japanese writing. <br> <a href="https://www.npmjs.com/package/kyarakuta"><img src="https://raw.githubusercontent.com/echamudi/badges/master/npm-n.svg" height="16" width="16"> kyarakuta</a>: Categorize and manipulate characters.<br> <a href="https://www.npmjs.com/package/japanese-db"><img src="https://raw.githubusercontent.com/echamudi/badges/master/npm-n.svg" height="16" width="16"> japanese-db</a>: Generate Japanese dictionary SQLite database from open source materials. | 
