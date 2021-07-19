@@ -2,6 +2,12 @@
 
 Here's a quick list of what I'm doing on GitHub:
 
+#### Desktop App
+
+| Repo | Details |
+| ---- | ---- |
+| <a href="https://github.com/echamudi/bon-jisho"><img src="https://raw.githubusercontent.com/echamudi/bon-jisho/master/ng-src/assets/bon-jisho-logo.svg" alt="Bon Jisho Logo" height="80" width="80"><br>Bon Jisho</a> | <a href="https://github.com/echamudi/bon-jisho"><img src="https://raw.githubusercontent.com/echamudi/echamudi/master/project-screenshots/bon-jisho-mac.png" alt="Bon Jisho Mac Screenshot" width="400"></a><br> Free and open source Japanese dictionary desktop app.<br><b>Download:</b> <br>[📥 Download Bon Jisho for Mac & Windows](https://github.com/echamudi/bon-jisho/releases) | 
+
 #### Utilities
 
 | Repo | Details |
